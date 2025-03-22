@@ -1,0 +1,2 @@
+##INFO=<ID=medianGQ,Number=1,Type=Float,Description="Median genotype quality across samples">
+##INFO=<ID=medianDP,Number=1,Type=Float,Description="Median depth across samples">

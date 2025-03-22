@@ -1,0 +1,6 @@
+name: training_env
+channels: 
+- bioconda
+- conda-forge
+dependencies: 
+- bcftools==1.21
