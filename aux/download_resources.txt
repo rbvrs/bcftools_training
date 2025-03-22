@@ -1,0 +1,4 @@
+https://zenodo.org/records/15068836/files/clinvar_20250209.vcf.gz
+https://zenodo.org/records/15068836/files/clinvar_20250209.vcf.gz.tbi
+https://zenodo.org/records/15068836/files/clinvar_20250209.prefixadj.vcf.gz
+https://zenodo.org/records/15068836/files/clinvar_20250209.prefixadj.vcf.gz.tbi

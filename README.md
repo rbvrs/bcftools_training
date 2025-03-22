@@ -31,6 +31,19 @@ bgzip --version
 tabix --version
 ```
 
+### Download intermediate files
+
+After cloning the repo to your local machine or compute system, you can download the following intermediate files required throughout the exercises from [Zenodo](https://zenodo.org/records/15068836). The total size of this data altogether is ~3.5 Gb. The largest file is a `.tsv` which will be located in the `aux/` folder, and sits at 2 Gb. The remainder are VCFs ~260 Mb max.
+
+You can download all the required files through the following `wget` commands.
+
+```
+wget -P data/ -i aux/download_data.txt
+wget -P tmp/ -i aux/download_tmp.txt
+wget -P resources/ -i aux/download_resources.txt
+wget -P aux/ -i aux/download_aux.txt
+```
+
 ## Source material and inspiration
 
 ### Source data

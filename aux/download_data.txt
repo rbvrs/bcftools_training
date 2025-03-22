@@ -1,0 +1,8 @@
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.vcf.gz
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.vcf.gz.tbi
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.annotated.vcf.gz
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.annotated.vcf.gz.tbi
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.annotated.filt.vcf.gz
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.annotated.filt.vcf.gz.tbi
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.clinvar.annotated.filt.vcf.gz
+https://zenodo.org/records/15068836/files/1kgp.chr21.region.sample.subset.clinvar.annotated.filt.vcf.gz.tbi
