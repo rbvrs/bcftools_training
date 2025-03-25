@@ -62,6 +62,8 @@ Note that in the query string's the `[` and `]` are sometimes covering the entir
 
 In the first query table, we provided an example where we narrowed down our query to only include variants, leaving out homozygote reference alleles. Below is a table to provide you with other options as well. This table can also be found on the [bcftools manual](https://samtools.github.io/bcftools/bcftools.html), so we simply highlight it here for convenience.
 
+For clarity, if you want to filter your data on genotype (`GT`), you can simply add the following to your bcftools command: `-i 'GT="alt"'` (or any of the other `GT` filters listed below). Note the usage of the various quotation mark types here.
+
 
 | Filter | Sample genotype |
 | ----------- | ----------- |

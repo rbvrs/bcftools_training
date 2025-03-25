@@ -50,7 +50,7 @@ wget -P aux/ -i aux/download_aux.txt
 
 The exercises made available in this repo are based on [1KGP](https://www.internationalgenome.org/1000-genomes-summary) data. Please cite these accordingly if these are further used.
 For clinical annotation data, we work with [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/intro/). Again here, please do cite them accordingly.
-Please find additional documentation on the source material in  `generate_source_material/`.
+Please find additional documentation on the source material in [generating source data](generate_source_material/).
 
 ### Material inspiration and other resources
 
